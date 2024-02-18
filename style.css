@@ -1,0 +1,122 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* navbar */
+
+.navbar1{
+    background-color: #585454;
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+/* section1 */
+
+.carouselcard{
+    position: relative;
+}
+.carousel-1{
+    height: 550px !important;
+}
+.carousel1-text{
+    position: absolute;
+    top: 4%;
+    padding: 20px;
+    padding-left: 550px;
+}
+
+/* section2 */
+
+.carouselcard{
+    position: relative;
+}
+.carousel-2{
+    height: 550px !important;
+}
+.carousel2-text{
+    position: absolute;
+    top: 1%;
+    padding: 20px;
+    padding-left: 550px;
+}
+
+/* section3 */
+
+.carouselcard{
+    position: relative;
+}
+.carousel-3{
+    height: 750px !important;
+}
+.carousel3-text{
+    position: absolute;
+    top: 80%;
+    padding: 20px;
+    padding-left: 670px;
+}
+
+/* cards  */
+.watch{
+    height: 500px;
+    background-image: url(./images/watch.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.macbookpro{
+    height: 500px;
+    background-image: url(./images/macbookpro.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+
+.ipad{
+    height: 500px;
+    background-image: url(./images/ipad.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.airpodspro{
+    height: 500px;
+    background-image: url(./images/airpodspro2.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.cards{
+    height: 500px;
+    background-image: url(./images/cards.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.Tradein{
+    height: 500px;
+    background-image: url(./images/tradein.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.decoration{
+    text-decoration: none;
+}
+
+/* footer  */
+.footer1{
+    background-color: #F5F5F7 !important;
+}
+.a1{
+    text-decoration: none;
+    color: #585454;
+}
